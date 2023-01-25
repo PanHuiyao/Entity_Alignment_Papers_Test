@@ -259,6 +259,9 @@ This is a repo listing some must-read papers on Entity Alignment published in re
 1. **EMEA**: **"Guiding Neural Entity Alignment with Compatibility".**
 *Bing Liu, Harrisen Scells, Wen Hua, Guido Zuccon, Genghong Zhao, Xia Zhang.* (EMNLP 2022) \[[paper](https://preview.aclanthology.org/emnlp-22-ingestion/2022.emnlp-main.32.pdf)\]\[[code](https://github.com/uqbingliu/EMEA)\]
 
+1. **Schema-Agnostic EM**: **"Schema-Agnostic Entity Matching using Pre-trained Language Models".**
+*Kai-Sheng Teong, Lay-Ki Soon, Tin Tin Su.* (CIKM 2020) \[[paper](https://dl.acm.org/doi/pdf/10.1145/3340531.3412131)\]
+
 ## Dangling-Aware Entity Alignment
 This section covers the new problem setting of entity alignment with dangling cases. ([Muhao](https://github.com/muhaochen): Proposed, and may be reorganized)
 1. **"Knowing the No-match: Entity Alignment with Dangling Cases".**
